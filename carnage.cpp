@@ -4,8 +4,6 @@
 #include <sys/stat.h>
 #include <unistd.h>
 
-using namespace std;
-
 // Function to encrypt a single file
 void carnageFile(std::string filePath)
 {
